@@ -1,0 +1,1 @@
+Simple Chat App pet-project based on Java and Swing UI
